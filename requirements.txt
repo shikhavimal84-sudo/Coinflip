@@ -1,2 +1,0 @@
-https://github.com/Kurimuzard/pyrogram/archive/refs/heads/master.zip
-tgcrypto
